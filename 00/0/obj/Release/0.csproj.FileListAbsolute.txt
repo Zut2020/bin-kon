@@ -1,0 +1,16 @@
+S:\Users\WoW_Server\Documents\Projects\00\0\bin\Release\0.dll
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\0.dll
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\res\layout\main.xml
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\res\values\strings.xml
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\res\drawable-hdpi\icon.png
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\res\drawable-mdpi\icon.png
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\res\drawable-xhdpi\icon.png
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\res\drawable-xxhdpi\icon.png
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\res\drawable-xxxhdpi\icon.png
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\R.cs.flag
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\uploadflags.txt
+S:\Users\WoW_Server\Documents\Projects\00\0\bin\Release\0.pdb
+S:\Users\WoW_Server\Documents\Projects\00\0\bin\Release\DecToBIn.DecToBIn.apk
+S:\Users\WoW_Server\Documents\Projects\00\0\bin\Release\DecToBIn.DecToBIn-Signed.apk
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\0.pdb
+S:\Users\WoW_Server\Documents\Projects\00\0\obj\Release\android\bin\DecToBIn.DecToBIn.apk
