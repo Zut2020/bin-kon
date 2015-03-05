@@ -17,10 +17,15 @@
         android:layout_height="wrap_content"
         android:id="@+id/editText1" />
     <Button
-        android:text="Átváltás"
+        android:text="Dec->Bin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/atvaltas" />
+        android:id="@+id/dectobin" />
+        <Button
+        android:text="Bin->Dec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bintodec" />
     <TextView
         android:text="   Bináris"
         android:textAppearance="?android:attr/textAppearanceMedium"
