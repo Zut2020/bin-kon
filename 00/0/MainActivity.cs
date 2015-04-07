@@ -23,7 +23,7 @@ namespace Application
 			//változók felvétele + a layoutról hozzárendelés
 			TextView dec = FindViewById<TextView> (Resource.Id.editText1);
 			Button atvaltas = FindViewById<Button> (Resource.Id.atvaltas);
-			Button bintodec = FindViewById<Button> (Resource.Id.bintodec);
+			//Button bintodec = FindViewById<Button> (Resource.Id.bintodec);
 			TextView bin = FindViewById<TextView> (Resource.Id.editText2);
 			Button Menu = FindViewById<Button> (Resource.Id.menu);
 
@@ -128,9 +128,9 @@ namespace Application
 			};
 
 
-			bintodec.Click += delegate {
+			/*bintodec.Click += delegate {
 				
-			}
+			};*/
 
 
 
