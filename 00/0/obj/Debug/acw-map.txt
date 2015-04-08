@@ -1,2 +1,0 @@
-Application.MainActivity;application.MainActivity
-Application.Menu;application.Menu
